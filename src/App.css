@@ -1,0 +1,73 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  padding-left: 245px;
+}
+
+.lovi {
+  background-color: #001f3f;
+} /* background for chat bot*/
+
+.lopi {
+  color: white;
+} /*  warna for chat dichatbot*/
+
+.al {
+  background-color: grey;
+}
+
+.tangka {
+  background-color: #001f3f;
+}
+
+.oyyy {
+  color: white;
+}
+
+/* .ruth {
+  background: url("./components/2.jpg");
+} */
+
+.containerbot {
+  border: 1px solid blue;
+  background-color: rgba(241, 252, 253, 0.1);
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px 0;
+  color: white;
+}
+
+.darker {
+  border-color: red;
+  background-color: rgba(241, 252, 253, 0.1);
+  color: white;
+}
+
+.containerbot::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.containerbot img {
+  float: left;
+  max-width: 70px;
+  margin-right: 20px;
+  border-radius: 70%;
+}
+
+.containerbot img.right {
+  float: right;
+  margin-left: 20px;
+  margin-right: 0;
+}
+
+.time-right {
+  float: right;
+  color: white;
+}
+
+.time-left {
+  float: left;
+  color: white;
+}

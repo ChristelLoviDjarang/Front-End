@@ -1,0 +1,159 @@
+[
+  { "phrase": "what is your name", "result": { "name": 1 } },
+  { "phrase": "your name", "result": { "name": 1 } },
+  { "phrase": "nama", "result": { "name": 1 } },
+  { "phrase": "siapa nama kamu", "result": { "name": 1 } },
+  { "phrase": "nama kamu siapa", "result": { "name": 1 } },
+  { "phrase": "apa hobby kamu", "result": { "hobby": 1 } },
+  { "phrase": "hobby", "result": { "hobby": 1 } },
+  { "phrase": "apa hobi kamu", "result": { "hobby": 1 } },
+  { "phrase": "hobi kamu", "result": { "hobby": 1 } },
+  { "phrase": "kamu suka bermain apa", "result": { "hobby": 1 } },
+  { "phrase": "kamu suka apa", "result": { "hobby": 1 } },
+  { "phrase": "kamu manusia atau robot", "result": { "human": 1 } },
+  { "phrase": "manusia atau robot", "result": { "human": 1 } },
+  { "phrase": "apakah kamu manusia", "result": { "human": 1 } },
+  { "phrase": "apakah kamu robot", "result": { "human": 1 } },
+  { "phrase": "kamu pasti robot", "result": { "human": 1 } },
+  { "phrase": "kamu seperti manusia", "result": { "human": 1 } },
+  { "phrase": "Selamat pagi.", "result": { "greetings": 1 } },
+  { "phrase": "selamat siang.", "result": { "greetings": 1 } },
+  { "phrase": "selamat sore", "result": { "greetings": 1 } },
+  { "phrase": "selamat malam", "result": { "greetings": 1 } },
+  { "phrase": "good morning.", "result": { "greetings": 1 } },
+  { "phrase": "hari yang indah.", "result": { "greetings": 1 } },
+  { "phrase": "hari ini sangat indah.", "result": { "greetings": 1 } },
+  { "phrase": "terima kasih", "result": { "thanks": 1 } },
+  { "phrase": "thank you", "result": { "thanks": 1 } },
+  { "phrase": "thanks", "result": { "thanks": 1 } },
+  { "phrase": "mantap sekali", "result": { "okey": 1 } },
+  { "phrase": "mantap", "result": { "okey": 1 } },
+  { "phrase": "good", "result": { "okey": 1 } },
+  { "phrase": "pintar", "result": { "okey": 1 } },
+  { "phrase": "ok ok", "result": { "okey": 1 } },
+  { "phrase": "oke", "result": { "okey": 1 } },
+  { "phrase": "Okey", "result": { "okey": 1 } },
+  { "phrase": "hi", "result": { "hi": 1 } },
+  { "phrase": "helo", "result": { "hi": 1 } },
+  { "phrase": "hello", "result": { "hi": 1 } },
+  { "phrase": "hi bro", "result": { "hi": 1 } },
+  { "phrase": "hi there", "result": { "hi": 1 } },
+  { "phrase": "kabar", "result": { "condition": 1 } },
+  { "phrase": "apa kabar kamu", "result": { "condition": 1 } },
+  { "phrase": "how are you", "result": { "condition": 1 } },
+  {
+    "phrase": "Apa spesifikasi utama dari kamera merek Canon Digital IXUS 285 HS? Apa fitur unggulannya?",
+    "result": { "Digital": 1 }
+  },
+  {
+    "phrase": "Apa itu RAM dan fungsinya dalam komputer?",
+    "result": { "ram": 1 }
+  },
+  {
+    "phrase": "Apa kegunaan dari sensor accelerometer pada smartphone?",
+    "result": { "accelerometer": 1 }
+  },
+  {
+    "phrase": "Bagaimana spesifikasi kamera pada smartphone model tertentu?",
+    "result": { "camera": 1 }
+  },
+  { "phrase": "Bagaimana cara kerja kamera DSLR?", "result": { "dslr": 1 } },
+  { "phrase": "Apa kegunaan dari GPU?", "result": { "gpu": 1 } },
+  {
+    "phrase": "Apa fungsi utama dari motherboard dalam sebuah PC?",
+    "result": { "motherboard": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara mengatasi masalah baterai yang cepat habis pada smartphone?",
+    "result": { "battery": 1 }
+  },
+  {
+    "phrase": "Apa kelebihan dari teknologi LED dalam TV?",
+    "result": { "led": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara memperbaiki layar yang retak pada smartphone?",
+    "result": { "cracked": 1 }
+  },
+  {
+    "phrase": "Apakah manfaat dari menggunakan teknologi NFC?",
+    "result": { "nfc": 1 }
+  },
+  {
+    "phrase": "Apa yang dimaksud dengan teknologi noise cancellation pada headphone?",
+    "result": { "noise": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara memperbaiki keyboard yang tidak berfungsi pada laptop?",
+    "result": { "keyboard": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara merawat projector agar tahan lama?",
+    "result": { "projector": 1 }
+  },
+  {
+    "phrase": "Apa kelebihan dari teknologi e-ink pada e-reader?",
+    "result": { "eink": 1 }
+  },
+  {
+    "phrase": "Apa yang dimaksud dengan teknologi biometric security pada perangkat elektronik?",
+    "result": { "biometric": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara mengatasi masalah overheating pada laptop?",
+    "result": { "laptop": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara mengatasi masalah overheating pada laptop?",
+    "result": { "fix": 1 }
+  },
+  {
+    "phrase": "Apakah perbedaan antara IPS dan TN pada monitor komputer?",
+    "result": { "ips": 1 }
+  },
+  {
+    "phrase": "Apa yang dimaksud dengan teknologi biometric security pada perangkat elektronik?",
+    "result": { "biometric": 1 }
+  },
+  {
+    "phrase": "Apa kelebihan dari teknologi e-ink pada e-reader?",
+    "result": { "reader": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara merawat projector agar tahan lama?",
+    "result": { "projector": 1 }
+  },
+  {
+    "phrase": "Rekomendasi kamera mirrorless untuk pemula.",
+    "result": { "mirrorless": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara memperbaiki keyboard yang tidak berfungsi pada laptop?",
+    "result": { "repair": 1 }
+  },
+  {
+    "phrase": "Rekomendasi smartwatch yang cocok untuk fitness.",
+    "result": { "smartwatch": 1 }
+  },
+  {
+    "phrase": "Apa yang dimaksud dengan teknologi noise cancellation pada headphone?",
+    "result": { "noise": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara memperbaiki layar yang retak pada smartphone?",
+    "result": { "screen": 1 }
+  },
+  {
+    "phrase": "Rekomendasi laptop gaming dengan spesifikasi tinggi.",
+    "result": { "gaming": 1 }
+  },
+  {
+    "phrase": "Bagaimana cara mengatasi masalah baterai yang cepat habis pada smartphone?",
+    "result": { "issue": 1 }
+  },
+  { "phrase": "anjing", "result": { "bad": 1 } },
+  { "phrase": "anjir", "result": { "bad": 1 } },
+  { "phrase": "anjirr", "result": { "bad": 1 } },
+  { "phrase": "anjirrr", "result": { "bad": 1 } },
+  { "phrase": "anjing", "result": { "bad": 1 } }
+]

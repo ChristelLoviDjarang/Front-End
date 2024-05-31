@@ -1,0 +1,52 @@
+/* CSS dari kedua kode yang ingin digabungkan */
+
+/* Gaya untuk body */
+/* Menggunakan kelas untuk body dengan nama lain, misalnya .custom-body */
+/* Menggunakan kelas untuk body dengan nama lain, misalnya .custom-body */
+.custom-body {
+  background: linear-gradient(to bottom right, #191970, #800000);
+  color: #eee;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  /* Bisa dipertimbangkan apakah diperlukan atau tidak */
+}
+
+/* Gaya untuk bagian #wrapper */
+#wrapper {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  position: relative;
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+}
+
+/* Gaya untuk elemen div di dalam #wrapper */
+#wrapper div {
+  margin: 8px;
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+  background: #0005;
+  display: grid;
+  place-items: center;
+  font: bold 34px monospace;
+  letter-spacing: 1px;
+  position: relative;
+  z-index: 5;
+}
+
+/* Gaya untuk konten lain di luar #wrapper */
+#other-content {
+  margin: 0 auto;
+  padding: 0;
+  padding-left: 245px;
+}
+
+/* Gaya yang sama pada kelas .lovi dari kedua kode */
+.lovi {
+  background-color: #001f3f;
+  /* Aturan CSS lainnya yang diperlukan */
+}
